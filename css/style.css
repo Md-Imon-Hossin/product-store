@@ -61,12 +61,14 @@ body {
     grid-template-columns: repeat(1, 1fr);
   }
 }
+/* search input field */
 #search-input {
   width: 50%;
   margin: auto;
   margin-left: 20%;
   margin-top: 20px;
 }
+/* search button */
 #search-btn {
   margin-top: 20px;
 }
